@@ -11,8 +11,4 @@ Neural Networks and Deep Learning
 - Convolutional Neural Networks
 - Sequence Models
 
-Each assignment is contained in its own directory, with the corresponding Jupyter notebooks and necessary data files.
-
-To get started with an assignment, navigate to the corresponding directory and open the Jupyter notebook. The notebook contains the instructions for the assignment, as well as the code templates for you to fill in.
-
-Note: The assignments are designed to be completed in the order listed above, as later assignments build on the concepts and techniques learned in earlier assignments.
+Each assignment is contained in its own directory, with the corresponding Jupyter notebooks only. 
